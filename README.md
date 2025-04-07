@@ -1,4 +1,4 @@
-# 🩺 AI-Powered WhatsApp Healthcare Assistant – *"Doctor Babu / Swasthiq"*
+# 🩺 AI-Powered WhatsApp Healthcare Assistant – *"Doctor Babu"*
 
 > **Bringing Healthcare to Every Village – One Chat at a Time**
 
